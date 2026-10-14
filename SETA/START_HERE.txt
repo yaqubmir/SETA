@@ -1,0 +1,9 @@
+SETA 1.0.0
+
+MATLAB: open matlab/Runme.m and run it.
+Python: follow README.md to install requirements, then run python/Runme.py.
+
+User manuals: docs/MATLAB_USER_MANUAL.html and docs/PYTHON_USER_MANUAL.md.
+Both editions are included. MATLAB runtime validation and numerical parity remain pending; see docs/VALIDATION.md.
+Author: Mohd Yaqub Mir, Lund University. ORCID 0000-0002-6550-0255.
+Software license: GPL-3.0-only.

@@ -1,0 +1,162 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 178,
+    "sha256": "627a1d363ff672775a2963cb683651dff000edae1ab91ed7df8b9c06af579db7"
+  },
+  {
+    "path": ".zenodo.json",
+    "bytes": 693,
+    "sha256": "5b0610f0daf70e774aa33c3e7795801fe62d619430357c175c68ce463b021ca9"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 482,
+    "sha256": "1787a9d92255d1a7937bb20906d539b44806c85a274f6c9c46d26cf5f503fd1a"
+  },
+  {
+    "path": "docs/IMPLEMENTATION_DIFFERENCES.md",
+    "bytes": 1610,
+    "sha256": "d845abc66283187c22c4114d24bdeb9c6e5d0c626139e6eda28a6ebd2581a92c"
+  },
+  {
+    "path": "docs/MATLAB_USER_MANUAL.html",
+    "bytes": 9109,
+    "sha256": "e9ae91787dbcaed18f40038fcc33e75aa288a916f22dd29d37d1b18a6417f3db"
+  },
+  {
+    "path": "docs/PYTHON_USER_MANUAL.html",
+    "bytes": 6304,
+    "sha256": "04a62360d952a42d990b6bf13434e4341ce296b2cb5a95e4a983ef04140d80f4"
+  },
+  {
+    "path": "docs/PYTHON_USER_MANUAL.md",
+    "bytes": 5570,
+    "sha256": "3f585d3624d07a422cccd80b3701a8005f40ae244cd483e2da3be207b205866f"
+  },
+  {
+    "path": "docs/RELEASE_NOTES.md",
+    "bytes": 1228,
+    "sha256": "98a720cd9e459a4583e6b394c896a6e18f3977572c04b293341b75a20dbfd41c"
+  },
+  {
+    "path": "docs/VALIDATION.md",
+    "bytes": 1232,
+    "sha256": "8eea066f0c528e7574b122cbe8e583f87369bebd29bed1731e631e99007a33db"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "matlab/default_detection_params.m",
+    "bytes": 1042,
+    "sha256": "32b569290eb3ddd63f0310ab2b20268d75305e70ce68b60f600316d1a31ffc77"
+  },
+  {
+    "path": "matlab/detect_events_with_params.m",
+    "bytes": 5828,
+    "sha256": "ee31cf8f85935cae224c1e8414bc2adc3c2b5840674bf6d677fa78a6477f1f62"
+  },
+  {
+    "path": "matlab/find_sessions.m",
+    "bytes": 1762,
+    "sha256": "7f160b95f663c66fe71a5210bb3bfe444decce1ca0cd36e27a6bbc42f7f95c08"
+  },
+  {
+    "path": "matlab/load_session_dat.m",
+    "bytes": 2048,
+    "sha256": "509ec0078c6bcd93dc6178ff05016999756c7012be46bde6934df2e6a3884c88"
+  },
+  {
+    "path": "matlab/preprocess_eeg.m",
+    "bytes": 2751,
+    "sha256": "a73ab76790b7caae64ce5aa61f80f06041071790ebd9e7e4fabafb06e04d545d"
+  },
+  {
+    "path": "matlab/Runme.m",
+    "bytes": 257,
+    "sha256": "e6375984e45d1f33d607bfcab457ff20045f060ce25ea9baf05d50a491db99ca"
+  },
+  {
+    "path": "matlab/SETAAnnotatorApp.m",
+    "bytes": 78453,
+    "sha256": "3e129fdf552965d44c2106dece200cc062f15fac8df023d0ce4c27f5305489ee"
+  },
+  {
+    "path": "matlab/SOURCE_MANIFEST.json",
+    "bytes": 2185,
+    "sha256": "e49fe334616439dd3cd50bac87e730ca8f12b845f9550c2c939c9afd4c15b05b"
+  },
+  {
+    "path": "python/make_demo.py",
+    "bytes": 504,
+    "sha256": "adb75b96513f3c88cfb36a7b9344cf0fef0072512347e06de8e8a07d0171e6e0"
+  },
+  {
+    "path": "python/pyproject.toml",
+    "bytes": 450,
+    "sha256": "a6c3704299e7998aa2f42e37c7d55efb454d8be9599457012868e3d86da76c6a"
+  },
+  {
+    "path": "python/requirements.txt",
+    "bytes": 30,
+    "sha256": "a549e38436e4cb3fa8066afca16c14146f79ce3b7f9241cba937e1913e3fda1d"
+  },
+  {
+    "path": "python/Runme.py",
+    "bytes": 104,
+    "sha256": "f21ed35876cd5a289fc9e3ac107c9930cef5ad5a3b8d2038446d55029658ca64"
+  },
+  {
+    "path": "python/seta/__init__.py",
+    "bytes": 75,
+    "sha256": "6b1082fed118703466b8265cd72cfa8dbd17563429c7625ea4fac84c1073c3e3"
+  },
+  {
+    "path": "python/seta/__main__.py",
+    "bytes": 29,
+    "sha256": "0ba4c6fe1dc77ad5e595e96efde4d7e256b1dabbfba543be7258dfa4fb2c62c8"
+  },
+  {
+    "path": "python/seta/annotations.py",
+    "bytes": 4858,
+    "sha256": "cb78bd77db3d9fb794eb681f97f7122aee00ca2014c6692d1a45c7428f5ba0e3"
+  },
+  {
+    "path": "python/seta/app.py",
+    "bytes": 18206,
+    "sha256": "d852540f95228d6797e4619fe504a46834bef131d97ae29b322bcee4b4727954"
+  },
+  {
+    "path": "python/seta/detection.py",
+    "bytes": 6844,
+    "sha256": "b1e30a9d96cab4bab0a341d9eead96d59d39e0cefcf8e3417691d13a95dc1c22"
+  },
+  {
+    "path": "python/seta/recording.py",
+    "bytes": 5031,
+    "sha256": "7f15f0645828f4a1b0cbae4bf911e1b4f33a6f36bee1b89aa4c18bcd40bfb519"
+  },
+  {
+    "path": "python/tests/test_seta.py",
+    "bytes": 5929,
+    "sha256": "67961bf5a85ad17df492025f234ef2cad724ebf0b5302868497f52caf86c9348"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3371,
+    "sha256": "46caa7cc190998b02365bc35e4777d590c03f436e69d7da2956ca046b2e4b36c"
+  },
+  {
+    "path": "START_HERE.txt",
+    "bytes": 428,
+    "sha256": "761e2ba65f65675be1e13b7a922aa55ed345ab2bfcc3ffae0ea582fc383a2b54"
+  },
+  {
+    "path": "USER_MANUAL.html",
+    "bytes": 869,
+    "sha256": "4f79f281432e515d274ae0847966c89e75b1a097dc834b1fac7a317164e2c32c"
+  }
+]

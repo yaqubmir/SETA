@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seta-annotator"
+version = "1.0.0"
+description = "Seizure Event Tagging and Annotation"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "scipy>=1.12,<2"]
+authors = [{name = "Mohd Yaqub Mir"}]
+license = "GPL-3.0-only"
+
+[project.gui-scripts]
+seta = "seta.app:main"
+
+[tool.setuptools.packages.find]
+include = ["seta*"]

@@ -1,0 +1,48 @@
+{
+  "source": "User-provided Annotator files.zip",
+  "changes": "SETA branding/class rename and copyright/license header only; detection and annotation logic unchanged.",
+  "files": [
+    {
+      "original": "Runme.m",
+      "packaged": "Runme.m",
+      "original_sha256": "74f149ccdd8b753d11319a7e7063e0ba36450aa42044d603836ec183b125befb",
+      "packaged_sha256": "e6375984e45d1f33d607bfcab457ff20045f060ce25ea9baf05d50a491db99ca"
+    },
+    {
+      "original": "NEDNetAnnotatorApp.m",
+      "packaged": "SETAAnnotatorApp.m",
+      "original_sha256": "a9f95430883547e72bb54c12bb9ab41be34f4ed2a6f2a47ddef0fb4dc574f971",
+      "packaged_sha256": "3e129fdf552965d44c2106dece200cc062f15fac8df023d0ce4c27f5305489ee"
+    },
+    {
+      "original": "default_detection_params.m",
+      "packaged": "default_detection_params.m",
+      "original_sha256": "77d2ae90f7198be673bfc9c601b4c0f071a89915b1eb8a3bda04011118328b80",
+      "packaged_sha256": "32b569290eb3ddd63f0310ab2b20268d75305e70ce68b60f600316d1a31ffc77"
+    },
+    {
+      "original": "detect_events_with_params.m",
+      "packaged": "detect_events_with_params.m",
+      "original_sha256": "7c78a47875c7bf0505ea26b7adbffa2601054fafd89c71d91ef01b88c35637d7",
+      "packaged_sha256": "ee31cf8f85935cae224c1e8414bc2adc3c2b5840674bf6d677fa78a6477f1f62"
+    },
+    {
+      "original": "find_sessions.m",
+      "packaged": "find_sessions.m",
+      "original_sha256": "5a5acfe0506f1a7d96bf28a77183c041f34a5e7b1345064216bc366b10caa88d",
+      "packaged_sha256": "7f160b95f663c66fe71a5210bb3bfe444decce1ca0cd36e27a6bbc42f7f95c08"
+    },
+    {
+      "original": "load_session_dat.m",
+      "packaged": "load_session_dat.m",
+      "original_sha256": "f9d575990478a1abde79a4d7198c563d4ebb985d30241099df731aecfc462bc2",
+      "packaged_sha256": "509ec0078c6bcd93dc6178ff05016999756c7012be46bde6934df2e6a3884c88"
+    },
+    {
+      "original": "preprocess_eeg.m",
+      "packaged": "preprocess_eeg.m",
+      "original_sha256": "6e548ca579ea229243e30325229078af80a1719a2fb6b2df9a8c9438d4355708",
+      "packaged_sha256": "a73ab76790b7caae64ce5aa61f80f06041071790ebd9e7e4fabafb06e04d545d"
+    }
+  ]
+}
